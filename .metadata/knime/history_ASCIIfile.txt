@@ -1,0 +1,3 @@
+file:/C:/Users/SimoM/Desktop/LM_Inf/second/data_and_text_mining/project/indian_liver_patient.csv
+C:\Users\SimoM\Desktop\LM_Inf\second\data_and_text_mining\project\indian_liver_patient.csv
+knime://knime.workflow/data.all
